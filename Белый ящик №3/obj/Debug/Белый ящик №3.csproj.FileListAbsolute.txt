@@ -1,0 +1,10 @@
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\obj\Debug\Белый ящик №3.csproj.AssemblyReference.cache
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\obj\Debug\Белый_ящик__3.Form1.resources
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\obj\Debug\Белый_ящик__3.Properties.Resources.resources
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\obj\Debug\Белый ящик №3.csproj.GenerateResource.cache
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\obj\Debug\Белый ящик №3.csproj.CoreCompileInputs.cache
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\bin\Debug\Белый ящик №3.exe.config
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\bin\Debug\Белый ящик №3.exe
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\bin\Debug\Белый ящик №3.pdb
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\obj\Debug\Белый ящик №3.exe
+C:\Users\Undertaker\source\repos\Белый ящик №3\Белый ящик №3\obj\Debug\Белый ящик №3.pdb
